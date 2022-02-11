@@ -1,0 +1,15 @@
+.order_heading{
+  text-align: center;
+  margin-top: 2%;
+}
+
+
+.line{
+  border-style: solid;
+
+  border-width: 3px
+}
+
+.align{
+  text-align: center;
+}
